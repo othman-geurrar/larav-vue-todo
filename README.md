@@ -4,6 +4,7 @@ A modern Full Stack To-Do List Application built with Laravel (backend) and Vue.
 This app allows users to register, log in, and manage their personal tasks with a sleek interface and real-time updates.
 ![image alt](https://github.com/othman-geurrar/larav-vue-todo/blob/5b5a3377d11712bd22877b3bf3be3db9392595dd/Capture%20d%E2%80%99%C3%A9cran%202025-09-04%20225330.png)
 ![image alt](https://github.com/othman-geurrar/larav-vue-todo/blob/f7578c60caa67c8f99a7673c304c3bd85b8d8967/Capture%20d%E2%80%99%C3%A9cran%202025-09-04%20225400.png)
+![image alt](https://github.com/othman-geurrar/larav-vue-todo/blob/f00e8737003dd1cd2389ec171927835266e28096/Capture%20d%E2%80%99%C3%A9cran%202025-09-04%20225634.png)
 
 🚀 Tech Stack
 🔹 Backend
